@@ -1,0 +1,14 @@
+C:\Progect\VSC\1400 team\1.24\bin\Debug\net10.0\1.24.exe
+C:\Progect\VSC\1400 team\1.24\bin\Debug\net10.0\1.24.deps.json
+C:\Progect\VSC\1400 team\1.24\bin\Debug\net10.0\1.24.runtimeconfig.json
+C:\Progect\VSC\1400 team\1.24\bin\Debug\net10.0\1.24.dll
+C:\Progect\VSC\1400 team\1.24\bin\Debug\net10.0\1.24.pdb
+C:\Progect\VSC\1400 team\1.24\obj\Debug\net10.0\1.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progect\VSC\1400 team\1.24\obj\Debug\net10.0\1.24.AssemblyInfoInputs.cache
+C:\Progect\VSC\1400 team\1.24\obj\Debug\net10.0\1.24.AssemblyInfo.cs
+C:\Progect\VSC\1400 team\1.24\obj\Debug\net10.0\1.24.csproj.CoreCompileInputs.cache
+C:\Progect\VSC\1400 team\1.24\obj\Debug\net10.0\1.24.dll
+C:\Progect\VSC\1400 team\1.24\obj\Debug\net10.0\refint\1.24.dll
+C:\Progect\VSC\1400 team\1.24\obj\Debug\net10.0\1.24.pdb
+C:\Progect\VSC\1400 team\1.24\obj\Debug\net10.0\1.24.genruntimeconfig.cache
+C:\Progect\VSC\1400 team\1.24\obj\Debug\net10.0\ref\1.24.dll
