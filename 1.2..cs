@@ -1,1 +1,9 @@
-System.Console.WriteLine($"{Math.E:F1}");
+using System;
+
+class Task1_2
+{
+    static void Main()
+    {
+        Console.WriteLine($"{Math.E:F1}");
+    }
+}
