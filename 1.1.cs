@@ -1,1 +1,9 @@
-Console.Write($"{Math.PI:F2}");
+using System;
+
+class Task1_1
+{
+    static void Main()
+    {
+        Console.WriteLine($"{Math.PI:F2}");
+    }
+}
