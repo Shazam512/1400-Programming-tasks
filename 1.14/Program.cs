@@ -1,4 +1,7 @@
-﻿// а) 2x
+double x = 1.0, y = 1.0, n = -5.0, a = 2.0, b = 3.0;
+double alpha = 0.5, beta = 0.5;
+
+// а) 2x
 double resA = 2 * x;
 
 // б) sin x
@@ -33,3 +36,5 @@ double resL = 3 * Math.Sin(2 * alpha) * Math.Cos(3 * beta);
 
 // м) -5 sqrt(x + sqrt(y))
 double resM = -5 * Math.Sqrt(x + Math.Sqrt(y));
+
+System.Console.WriteLine(resA, resB, resD, resV, resE, resG, resI, resJ, resK, resL, resM, resZ);
