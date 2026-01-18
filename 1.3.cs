@@ -1,3 +1,11 @@
-System.Console.Write("Введите число: ");
-string num = Console.ReadLine();
-System.Console.WriteLine($"Вы ввели число {num}");
+using System;
+
+class Task1_3
+{
+    static void Main()
+    {
+        Console.Write("Введите число: ");
+        string input = Console.ReadLine();
+        Console.WriteLine($"Вы ввели число {input}");
+    }
+}
