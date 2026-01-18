@@ -1,4 +1,6 @@
-﻿// а) -1 / x^2
+double x = 2, a = 2, b = 3, c = 4, m = 2, n = 3;
+
+// а) -1 / x^2
 double resA = -1 / Math.Pow(x, 2);
 
 // б) a / (bc)
@@ -27,3 +29,5 @@ double resI = 1 / (1 + 1 / (2 + 1 / (2 + 3.0 / 5.0)));
 
 // к) 2^(m^n)
 double resK = Math.Pow(2, Math.Pow(m, n));
+
+System.Console.WriteLine(resA, resB, resV, resG, resD, resE, resJ, resZ, resI, resK);
