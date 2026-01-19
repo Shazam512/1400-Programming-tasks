@@ -9,6 +9,7 @@ if (m > 0 && V > 0)
 }
 else
 {
-    System.Console.WriteLine("Ошибка! Значение должны быть большее НУЛЯ!");
+    System.Console.WriteLine("Ошибка! Значения должны быть больше НУЛЯ!");
 }
+
 
